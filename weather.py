@@ -1,7 +1,7 @@
 import requests
 
 url = "http://api.weatherapi.com/v1/current.json"
-access_key = "f19eb99514714016b27123437232512"
+access_key = "API Key"
 
 sehir = input("şehir: ")
 
